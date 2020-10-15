@@ -1,0 +1,4 @@
+name: GuardianJoinEffect
+version: 1.0
+api: 3.12.0
+main: GuardianJoinEffect\Main
