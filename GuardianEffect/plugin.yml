@@ -1,4 +1,5 @@
 name: GuardianJoinEffect
 version: 1.0
+author: xLykex
 api: 3.12.0
 main: GuardianJoinEffect\Main
