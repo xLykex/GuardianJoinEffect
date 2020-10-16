@@ -13,7 +13,7 @@ class Main extends PluginBase implements Listener{
 
 	public function onEnable(){
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
-		$this->getServer()->getLogger()->notice("GuardianJoinEffect by Xek")
+		$this->getServer()->getLogger()->debug("GuardianJoinEffect by Xek")
 
 	}
 
