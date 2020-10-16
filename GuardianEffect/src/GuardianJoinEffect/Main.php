@@ -23,6 +23,6 @@ class Main extends PluginBase implements Listener{
 	}
 
 	public function onDisable(){
-		$this->getServer()->getLogger()->notice("GuardianJoinEffect by Xek.");
+		$this->getServer()->getLogger()->debug("GuardianJoinEffect by Xek.");
 	}
 }
